@@ -1,47 +1,35 @@
 export const bio = [
   "Hello there &#128075;",
-  "I'm Vinay Somawat, a Software Engineer at Biofourmis India with a specialization in JavaScript Applications. I have a passion for all things tech and consider myself a curious and enthusiastic developer.",
-  "Apart from coding, I love to read, listen to music, and travel.",
+  "I'm Abiodun Oladipupo, a Graphics Designer working with online vendor in creating the daily designs for their businesses with a specialization in Adobe Illustrator and Photoshop. I have a passion for all things tech and consider myself a curious and enthusiastic Individual.",
+  "Apart from Graphic Designing, I am a Data Analyst, I make use of big raw data, visualize and model it to provide problem solving meaning and to support decision-making of an organization.",
   "As a lifelong learner, I'm always seeking new knowledge and experiences to broaden my perspective and enhance my skills.",
   "Thanks for taking the time to learn a little about me!",
 ];
 
 export const skills = [
   {
-    title: "Languages",
-    skillName: "JavaScript, TypeScript",
+    title: "Design Packages",
+    skillName: "Adobe Illustrator, Photoshop",
     color: "1",
+    percentage: "90",
+  },
+  {
+    title: "Microsoft Packages",
+    skillName: "Excel, PowerPoint, Word",
+    color: "6",
     percentage: "80",
   },
   {
-    title: "Frameworks/Libraries",
-    skillName: "Angular, Rxjs, Ngxs",
-    color: "6",
-    percentage: "70",
-  },
-  {
-    title: "Design",
-    skillName: "HTML, Bootstrap, Tailwind",
+    title: "Microsoft Packages",
+    skillName: "Power-Bi",
     color: "4",
     percentage: "70",
   },
   {
-    title: "Version Control",
-    skillName: "GitHub, JIRA, Bitbucket",
+    title: "Data Analysis",
+    skillName: "SQL, Python",
     color: "7",
     percentage: "70",
-  },
-  {
-    title: "Tools",
-    skillName: "Postman, Chrome DevTools",
-    color: "3",
-    percentage: "80",
-  },
-  {
-    title: "Analytics",
-    skillName: "CleverTap, Countly",
-    color: "5",
-    percentage: "50",
   },
   {
     title: "Editor",
@@ -56,7 +44,7 @@ export const projects = {
     "*** All the projects I listed were completed during my college-level development journey. As for my work at the industry level, those projects are confidential and cannot be disclosed.",
   webProjects: [
     {
-      projectName: "Programming Diaries",
+      projectName: "Graphics Diaries",
       image: "images/programmingdiaries.png",
       summary:
         "Developed a full stack blog application to provide content on techical topics across the internet with admin interface.",
@@ -226,14 +214,6 @@ export const footer = [
     label: "Dev Profiles",
     data: [
       {
-        text: "Stackoverflow",
-        link: "https://stackoverflow.com/users/8461233/vinay-somawat",
-      },
-      {
-        text: "GitHub",
-        link: "https://github.com/vinaysomawat",
-      },
-      {
         text: "LeetCode",
         link: "https://leetcode.com/somawatvinay/",
       },
@@ -261,11 +241,11 @@ export const footer = [
     data: [
       {
         text: "Linkedin",
-        link: "https://www.linkedin.com/in/vinaysomawat/",
+        link: "https://www.linkedin.com/in/abiodun-oladipupo-01aa74215",
       },
       {
         text: "Twitter",
-        link: "https://twitter.com/thesigmakid",
+        link: "https://twitter.com/abiodun-oladipupo-01aa74215",
       },
       {
         text: "Buy me a coffee",
